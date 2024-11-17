@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+## 🖥️ Demo
+
+<div align="center">
+   <img src = "public/Screenshot 2024-09-09 030504.png" alt="Screenshot">
+</div>
+
+## Live Demo - [https://kanbanboard-blush.vercel.app](https://kanbanboard-blush.vercel.app)
+
+
+
+
+# Dashboard Using React Js.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

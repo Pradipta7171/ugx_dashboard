@@ -1,13 +1,10 @@
 ## 🖥️ Demo
 
 <div align="center">
-   <img src = "public/Screenshot 2024-09-09 030504.png" alt="Screenshot">
+   <img src = "public/Screenshot 2024-11-17 233452.png" alt="Screenshot">
 </div>
 
-## Live Demo - [https://kanbanboard-blush.vercel.app](https://kanbanboard-blush.vercel.app)
-
-
-
+## Live Demo - [https://ugx-dashboard.vercel.app/](https://ugx-dashboard.vercel.app)
 
 # Dashboard Using React Js.
 
